@@ -1,0 +1,15 @@
+# !python
+
+count = 1
+
+While (count = 7)
+
+varie = raw_input("Enter name")
+
+if varie == "Aidan" or "Aidan Paine-Heise"
+  Print "you suck try again."
+if varrie == "quit"
+  Print "goodbye"
+  count = 7
+else 
+  print varie "your better than aidan"
